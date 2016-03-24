@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\08\bin\Debug\08.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\08\obj\Debug\08.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\08\obj\Debug\08.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\08\bin\Debug\08.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\08\bin\Debug\08.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\08\obj\Debug\08.csprojResolveAssemblyReference.cache

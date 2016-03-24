@@ -1,0 +1,5 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution2\03.Triangle\bin\Debug\03.Triangle.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution2\03.Triangle\bin\Debug\03.Triangle.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution2\03.Triangle\bin\Debug\03.Triangle.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution2\03.Triangle\obj\Debug\03.Triangle.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution2\03.Triangle\obj\Debug\03.Triangle.pdb

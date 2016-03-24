@@ -1,0 +1,5 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\04\bin\Debug\04.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\04\bin\Debug\04.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\04\bin\Debug\04.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\04\obj\Debug\04.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\04\obj\Debug\04.pdb

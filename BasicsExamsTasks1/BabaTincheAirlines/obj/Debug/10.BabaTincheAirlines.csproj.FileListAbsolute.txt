@@ -1,0 +1,5 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\10.BabaTincheAirlines\bin\Debug\10.BabaTincheAirlines.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\10.BabaTincheAirlines\bin\Debug\10.BabaTincheAirlines.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\10.BabaTincheAirlines\bin\Debug\10.BabaTincheAirlines.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\10.BabaTincheAirlines\obj\Debug\10.BabaTincheAirlines.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\10.BabaTincheAirlines\obj\Debug\10.BabaTincheAirlines.pdb

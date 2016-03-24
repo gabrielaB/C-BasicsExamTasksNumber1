@@ -1,0 +1,5 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\13.BookProblem\bin\Debug\13.BookProblem.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\13.BookProblem\bin\Debug\13.BookProblem.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\13.BookProblem\bin\Debug\13.BookProblem.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\13.BookProblem\obj\Debug\13.BookProblem.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\13.BookProblem\obj\Debug\13.BookProblem.pdb

@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\11\bin\Debug\11.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\11\obj\Debug\11.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\11\obj\Debug\11.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\11\bin\Debug\11.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\11\bin\Debug\11.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\11\obj\Debug\11.csprojResolveAssemblyReference.cache

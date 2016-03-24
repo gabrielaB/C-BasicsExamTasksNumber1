@@ -1,0 +1,5 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\Budget\bin\Debug\Budget.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\Budget\bin\Debug\Budget.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\Budget\bin\Debug\Budget.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\Budget\obj\Debug\Budget.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution2\Budget\obj\Debug\Budget.pdb

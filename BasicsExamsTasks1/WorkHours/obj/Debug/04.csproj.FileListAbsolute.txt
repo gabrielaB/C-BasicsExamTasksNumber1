@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution2\04\bin\Debug\04.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution2\04\obj\Debug\04.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution2\04\obj\Debug\04.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution2\04\obj\Debug\04.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\Solution2\04\bin\Debug\04.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution2\04\bin\Debug\04.pdb
